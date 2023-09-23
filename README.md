@@ -4,7 +4,6 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-dantas-76a411239/)
 
 ![Milton-a GitHub stats](https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-a&hide_progress=false)
 
 ## Tecnologias que eu uso
 
