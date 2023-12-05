@@ -1,11 +1,10 @@
-### Olá! Eu sou o Milton Dantas 👋
+### Olá! Eu sou o Milton Dantas 👋 
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-dantas-76a411239/)
+
 
 #### De modo indivual tenho estudado mais as seguintes stacks no site roadmap.sh
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e339f4ced78d2935356b43?variant=dark&roadmaps=backend%2Csoftware-design-architecture%2Cfrontend%2Cjavascript)](https://roadmap.sh)
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-dantas-76a411239/)
-
-![Milton-a GitHub stats](https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso
 
@@ -25,6 +24,8 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-
 </div>
+
+
+![Milton-a GitHub stats](https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true&theme=radical)
 
