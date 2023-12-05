@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Milton Dantas 👋
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e339f4ced78d2935356b43?variant=dark" alt="roadmap.sh"/></a>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e339f4ced78d2935356b43?variant=dark)](https://roadmap.sh)
+#### De modo indivual tenho estudado mais as seguintes stacks no site roadmap.sh
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e339f4ced78d2935356b43?variant=dark&roadmaps=backend%2Csoftware-design-architecture%2Cfrontend%2Cjavascript)](https://roadmap.sh)
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-dantas-76a411239/)
 
