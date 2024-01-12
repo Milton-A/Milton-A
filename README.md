@@ -25,7 +25,7 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </div>
-
+<br/>
 
 ![Milton-a GitHub stats](https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true&theme=radical)
 
