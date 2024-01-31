@@ -27,5 +27,3 @@
 </div>
 <br/>
 
-![Milton-a GitHub stats](https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true&theme=radical)
-
