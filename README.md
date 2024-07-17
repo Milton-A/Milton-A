@@ -1,10 +1,15 @@
 <h1 style="color: #F70000&">I'M Milton Dantas</h1>
+
 <br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F70000&width=650&height=80&lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
+
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Milton-A&theme=dark&border_radius=6)](https://git.io/streak-stats)
+
 <br/>
+
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-dantas-76a411239/)
 
 
