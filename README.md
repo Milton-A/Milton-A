@@ -1,3 +1,4 @@
+<div style="display: flex; flex-direction: column;justify-content: center; gap: 2px; align">
 ### Olá! Eu sou o Milton Dantas 👋 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Milton-A&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -28,4 +29,5 @@
     <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </div>
 <br/>
+</div>
 
