@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column;justify-content: center; gap: 2px; align">
+<div style="display: flex; flex-direction: column;justify-content: center; gap: 2px">
 ### Olá! Eu sou o Milton Dantas 👋 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Milton-A&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
