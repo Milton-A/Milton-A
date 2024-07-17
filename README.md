@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I'M+Milton+Dantas;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Milton-A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Milton-A&theme:Dark)](https://git.io/streak-stats)
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-dantas-76a411239/)
 
