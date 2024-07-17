@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I'M+Milton+Dantas;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
+<h1 style="color: red">I'M+Milton+Dantas</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Milton-A&theme:dark)](https://git.io/streak-stats)
 
