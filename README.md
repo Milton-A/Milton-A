@@ -14,7 +14,7 @@
 
 
 #### De modo indivual tenho estudado mais as seguintes stacks no site roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/wide/64e339f4ced78d2935356b43?variant=dark&roadmaps=frontend%2Creact-native%2Cjavascript%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64e339f4ced78d2935356b43?variant=dark&roadmaps=frontend%2Creact-native%2Cjavascript%2Cbackend)](https://roadmap.sh)
 
 
 ## Tecnologias que eu uso
