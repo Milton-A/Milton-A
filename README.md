@@ -15,6 +15,7 @@
 
 #### De modo indivual tenho estudado mais as seguintes stacks no site roadmap.sh
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e339f4ced78d2935356b43?variant=dark&roadmaps=backend%2Csoftware-design-architecture%2Cfrontend%2Cjavascript)](https://roadmap.sh)
 
 ## Tecnologias que eu uso
 
