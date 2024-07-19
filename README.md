@@ -14,7 +14,8 @@
 
 
 #### De modo indivual tenho estudado mais as seguintes stacks no site roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/tall/64e339f4ced78d2935356b43?variant=dark&roadmaps=react-native%2Cjavascript%2Creact%2Cnodejs)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64e339f4ced78d2935356b43?variant=dark&roadmaps=frontend%2Cjavascript%2Cbackend%2Creact-native" alt="roadmap.sh"/></a>
+
 
 ## Tecnologias que eu uso
 
