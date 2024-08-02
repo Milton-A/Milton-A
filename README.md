@@ -1,6 +1,6 @@
 <h1 style="color: #F70000&">I'M Milton Dantas</h1>
 
-<br/>
+<br/> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F70000&width=680&height=80&lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
