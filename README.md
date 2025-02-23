@@ -26,7 +26,6 @@
 💡 Apaixonado por tecnologia, segurança cibernética e desenvolvimento de soluções escaláveis.  
 🔐 Focado na criação de aplicações seguras e eficientes, utilizando práticas de **DevSecOps**, **Machine Learning** e **Cloud Computing**.  
 ⚡ Desenvolvendo projetos que unem **Redes, Segurança e Desenvolvimento de Software**.  
-📌 Construindo a startup **Ótima Telecom** para democratizar o acesso à internet.  
 📖 Pesquisando **Automação de Resposta a Ameaças Cibernéticas com Machine Learning** para o TCC.  
 
 ---
@@ -64,7 +63,6 @@
 ## 🎯 Currently Working On
 
 🔹 **TCC - Automação de Resposta a Ameaças Cibernéticas com Machine Learning**  
-🔹 **Ótima Telecom - Startup MVNO para democratizar a internet**  
 🔹 **Tourlandia - Plataforma de Turismo Integrado em Angola**  
 
 ---
