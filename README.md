@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F70000&center=true&width=720&height=80&lines=Cybersecurity+%7C+Network+%7C+Software+Engineer;Pentester+%7C+DevOps+%7C+Cloud;Building+secure+and+scalable+solutions;Automating+Threat+Detection+with+Machine+Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F70000&center=true&width=720&height=80&lines=Cybersecurity+%7C+Network+%7C;Software+Engineer;Pentester+%7C+%7C+Cloud;Automating">
   </a>
 </p>
 
