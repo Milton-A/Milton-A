@@ -1,39 +1,103 @@
-<h1 style="color: #F70000&">I'M Milton Dantas</h1>
+<h1 align="center" style="color: #F70000;">🚀 Milton Dantas | Full-stack Developer & Cybersecurity Enthusiast</h1>
 
-<br/> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F70000&center=true&width=720&height=80&lines=Cybersecurity+%7C+Network+%7C+Software+Engineer;Pentester+%7C+DevOps+%7C+Cloud;Building+secure+and+scalable+solutions;Automating+Threat+Detection+with+Machine+Learning">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F70000&width=680&height=80&lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/milton-dantas-76a411239/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:milton.dantas.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Milton-A">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-<br/>
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Milton-A&theme=dark&border_radius=6)](https://git.io/streak-stats)
+---
 
-<br/>
+## 🚀 About Me
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-dantas-76a411239/)
+🎯 **Engenheiro Informático | Full-stack Developer | Pentester**  
+💡 Apaixonado por tecnologia, segurança cibernética e desenvolvimento de soluções escaláveis.  
+🔐 Focado na criação de aplicações seguras e eficientes, utilizando práticas de **DevSecOps**, **Machine Learning** e **Cloud Computing**.  
+⚡ Desenvolvendo projetos que unem **Redes, Segurança e Desenvolvimento de Software**.  
+📌 Construindo a startup **Ótima Telecom** para democratizar o acesso à internet.  
+📖 Pesquisando **Automação de Resposta a Ameaças Cibernéticas com Machine Learning** para o TCC.  
 
+---
 
-#### De modo indivual tenho estudado mais as seguintes stacks no site roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/wide/64e339f4ced78d2935356b43?variant=dark&roadmaps=frontend%2Creact-native%2Cjavascript%2Cbackend)](https://roadmap.sh)
+## 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Milton-A&theme=dark&border_radius=6" alt="GitHub Streak">
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Milton-A&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+  </a>
+</p>
 
-## Tecnologias que eu uso
+---
 
-<div style="display: flex; flex-direction: column; gap: 2px"> 
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img align="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="tailwindcc" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+## 📚 Tech Stack & Expertise
+
+### 🖥️ **Full-stack Development**
+- **Frontend:** React.js, React Native, Tailwind CSS, Bootstrap
+- **Backend:** Node.js (Express.js), FastAPI, Prisma, MySQL, PostgreSQL
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD (GitHub Actions, Jenkins)
+- **Scripting & Automation:** Python, Bash, PowerShell
+
+### 🔐 **Cybersecurity & Networking**
+- **Pentesting & Forensics:** Kali Linux, Metasploit, Wireshark, Burp Suite
+- **Networking:** CCNA Certified (Routing & Switching), HCIA Datacom
+- **SIEM & Logs Analysis:** ELK Stack (Elasticsearch, Logstash, Kibana), Graylog
+- **Machine Learning for Security:** Random Forest, Bayesian Networks, Isolation Forest
+
+---
+
+## 🎯 Currently Working On
+
+🔹 **TCC - Automação de Resposta a Ameaças Cibernéticas com Machine Learning**  
+🔹 **Ótima Telecom - Startup MVNO para democratizar a internet**  
+🔹 **Tourlandia - Plataforma de Turismo Integrado em Angola**  
+
+---
+
+## 🛠️ Tools & Technologies
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 </div>
-<br/>
+
+---
+
+💡 Sempre aberto a novas oportunidades e colaborações. Vamos nos conectar! 🚀  
+📩 **Email:** [milton.dantas133@gmail.com](mailto:milton.dantas133@gmail.com)  
+🌍 **LinkedIn:** [Milton Dantas](https://www.linkedin.com/in/milton-dantas)  
+🐙 **GitHub:** [Milton-A](https://github.com/Milton-A)  
+
+---
+
