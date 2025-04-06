@@ -22,9 +22,8 @@
 
 ## 🚀 About Me
 
-🎯 **Engenheiro Informático | Full-stack Developer | Pentester**  
-💡 Apaixonado por tecnologia, segurança cibernética e desenvolvimento de soluções escaláveis.  
-🔐 Focado na criação de aplicações seguras e eficientes, utilizando práticas de **DevSecOps**, **Machine Learning** e **Cloud Computing**.  
+🎯 **Engenheiro Informático | Full-stack Developer**  
+💡 Apaixonado por tecnologia, segurança cibernética e desenvolvimento de soluções escaláveis.    
 ⚡ Desenvolvendo projetos que unem **Redes, Segurança e Desenvolvimento de Software**.  
 📖 Pesquisando **Automação de Resposta a Ameaças Cibernéticas com Machine Learning** para o TCC.  
 
@@ -49,13 +48,10 @@
 ### 🖥️ **Full-stack Development**
 - **Frontend:** React.js, React Native, Tailwind CSS, Bootstrap
 - **Backend:** Node.js (Express.js), FastAPI, Prisma, MySQL, PostgreSQL
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD (GitHub Actions, Jenkins)
-- **Scripting & Automation:** Python, Bash, PowerShell
+- **Scripting & Automation:** Python, PowerShell
 
 ### 🔐 **Cybersecurity & Networking**
-- **Pentesting & Forensics:** Kali Linux, Metasploit, Wireshark, Burp Suite
 - **Networking:** CCNA Certified (Routing & Switching), HCIA Datacom
-- **SIEM & Logs Analysis:** ELK Stack (Elasticsearch, Logstash, Kibana), Graylog
 - **Machine Learning for Security:** Random Forest, Bayesian Networks, Isolation Forest
 
 ---
@@ -63,7 +59,9 @@
 ## 🎯 Currently Working On
 
 🔹 **TCC - Automação de Resposta a Ameaças Cibernéticas com Machine Learning**  
-🔹 **Tourlandia - Plataforma de Turismo Integrado em Angola**  
+🔹 **Tourlandia - Plataforma de Turismo Integrado em Angola**
+🔹 **Empreste - Plataforma de emprestimos**
+🔹 **DividaFacil - Plataforma de gestão e divisão de despesas**
 
 ---
 
