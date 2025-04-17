@@ -36,9 +36,6 @@
     <img src="https://streak-stats.demolab.com?user=Milton-A&theme=dark&border_radius=6" alt="GitHub Streak">
   </a>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Milton-A&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-  </a>
 </p>
 
 ---
