@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milton-a&color=0e14c2" alt="Profile views" /> </p>
 
 ---
 
@@ -36,6 +37,10 @@
     <img src="https://streak-stats.demolab.com?user=Milton-A&theme=dark&border_radius=6" alt="GitHub Streak">
   </a>
   <br/>
+  <div align="center">
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="Milton-A stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton-a&layout=compact&theme=aura" alt="Milton-A stats"/>
+ </div>
 </p>
 
 ---
