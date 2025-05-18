@@ -39,7 +39,7 @@
   <br/>
   <div align="center">
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="Milton-A stats"/>
-![](https://raw.githubusercontent.com/Milton-A/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<img height='180em' src="https://raw.githubusercontent.com/Milton-A/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Milton-A stats"/>
  </div>
 </p>
 
