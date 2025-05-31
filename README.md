@@ -38,7 +38,7 @@
   </a>
   <br/>
   <div align="center">
-    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="Milton-A stats"/>
+    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=milton-a&show_icons=true&theme=aura&show=prs_merged,prs_merged_percentage" alt="Milton-A stats"/>
    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton-a&layout=compact&show_icons=true&theme=aura" alt="Milton-A stats"/>
   </div>
 </p>
