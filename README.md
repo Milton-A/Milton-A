@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #F70000;">🚀 Milton Dantas | Full-stack Developer & Cybersecurity Enthusiast</h1>
+<h1 align="center" style="color: #F70000;">🚀 Milton Dantas | Developer & Cybersecurity Enthusiast</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
